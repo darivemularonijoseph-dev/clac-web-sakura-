@@ -1,0 +1,6 @@
+{
+  "name": "Sakura Calculator",
+  "description": "A beautiful pastel pink Sakura-themed calculator featuring history tracking, smooth motion animations, and custom floral accents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
